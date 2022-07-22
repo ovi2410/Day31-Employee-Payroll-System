@@ -20,3 +20,6 @@ Insert into empoyee_payrolls(name,salary,startDate) values
 ('Aruna',30000,'2020-08-19');
 
 
+--UC-4 Retrieve All data--
+select * from empoyee_payrolls;               -- Retriving all the record from table table and Display them
+
